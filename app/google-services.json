@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106193215871",
+    "firebase_url": "https://onlineinventory-617c9.firebaseio.com",
+    "project_id": "onlineinventory-617c9",
+    "storage_bucket": "onlineinventory-617c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106193215871:android:1070f6ff634ec30c",
+        "android_client_info": {
+          "package_name": "com.santossingh.onlineinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106193215871-d339sun6gf0noufvfvjcj1fnrd4d5fh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4v-inD0kyCUjMA7e5uujtcYBlK484ius"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106193215871-d339sun6gf0noufvfvjcj1fnrd4d5fh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

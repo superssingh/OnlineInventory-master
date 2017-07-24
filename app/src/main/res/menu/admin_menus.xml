@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/OrderMenu"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Orders Management" />
+
+    <item
+        android:id="@+id/SellerMenu"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Seller Management" />
+
+    <item
+        android:id="@+id/AdminMenu"
+        android:icon="@color/com_facebook_button_send_background_color"
+        android:title="Change Password" />
+</menu>

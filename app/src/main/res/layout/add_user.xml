@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Enter Seller Name" />
+
+    <EditText
+        android:id="@+id/userMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Enter Mobile Number"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Enter Password" />
+
+    <Button
+        android:id="@+id/addUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#116aab"
+        android:elevation="8dp"
+        android:text="Add User"
+        android:textColor="#fff" />
+
+</LinearLayout>
